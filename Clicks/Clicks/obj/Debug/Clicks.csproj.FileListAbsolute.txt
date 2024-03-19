@@ -1,0 +1,10 @@
+C:\Users\Cristian\source\repos\Clicks\Clicks\obj\Debug\Clicks.csproj.AssemblyReference.cache
+C:\Users\Cristian\source\repos\Clicks\Clicks\obj\Debug\Clicks.Form1.resources
+C:\Users\Cristian\source\repos\Clicks\Clicks\obj\Debug\Clicks.Properties.Resources.resources
+C:\Users\Cristian\source\repos\Clicks\Clicks\obj\Debug\Clicks.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\Clicks\Clicks\obj\Debug\Clicks.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Clicks\Clicks\bin\Debug\Clicks.exe.config
+C:\Users\Cristian\source\repos\Clicks\Clicks\bin\Debug\Clicks.exe
+C:\Users\Cristian\source\repos\Clicks\Clicks\bin\Debug\Clicks.pdb
+C:\Users\Cristian\source\repos\Clicks\Clicks\obj\Debug\Clicks.exe
+C:\Users\Cristian\source\repos\Clicks\Clicks\obj\Debug\Clicks.pdb
